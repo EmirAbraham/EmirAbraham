@@ -1,6 +1,6 @@
  <h1>Emir Abraham</h1>
  ## 💫 About Me:
-I am a Full Stack Developer with a passion for building beautiful and user-friendly web applications. I am also a quick learner and have a keen eye for detail.<br>If you're looking for a Full Stack Developer to help build your next web application, please get in touch. I'd be happy to chat and see if I can be of assistance. I really enjoy working with teams to create high-quality software.
+Soy un desarrollador Full Stack con pasión por construir aplicaciones web hermosas y fáciles de usar. También soy un aprendiz rápido y tengo un ojo agudo para los detalles. Si estás buscando un desarrollador Full Stack para ayudarte a construir tu próxima aplicación web, por favor ponte en contacto. Estaría encantado de charlar y ver si puedo ser de ayuda. Realmente disfruto trabajar con equipos para crear software de alta calidad.
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emirabraham/) 
 
